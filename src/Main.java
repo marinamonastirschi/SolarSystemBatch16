@@ -8,7 +8,7 @@ public class Main {
 
       fSun AdamX= new fSun();
       AdamX.name="poya";
-      AdamX.temp=124545 celcius;
+      AdamX.temp="124545 celsius";
       AdamX.size="3264565km";
     }
 }
