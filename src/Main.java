@@ -10,5 +10,11 @@ public class Main {
       AdamX.name="poya";
       AdamX.temp="124545 celsius";
       AdamX.size="3264565km";
+
+      Planet1 Xeon = new Planet1();
+      Xeon.name="reon";
+      Xeon.color="pink";
+      Xeon.temp="45 celsius";
+      Xeon.size="1cm";
     }
 }
